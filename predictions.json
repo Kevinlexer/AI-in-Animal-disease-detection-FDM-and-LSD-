@@ -1,0 +1,52 @@
+[
+    {
+        "filename": "Lumpy_Skin_270.png",
+        "prediction": "Normal",
+        "confidence": "50.68%"
+    },
+    {
+        "filename": "3_day_vesicle_steer_tongue.jpg",
+        "prediction": "Foot_and_mouth",
+        "confidence": "43.11%"
+    },
+    {
+        "filename": "Lumpy_Skin_270.png",
+        "prediction": "Normal",
+        "confidence": "50.68%"
+    },
+    {
+        "filename": "Lumpy_Skin_271.png",
+        "prediction": "Normal",
+        "confidence": "58.96%"
+    },
+    {
+        "filename": "Lumpy_Skin_286.png",
+        "prediction": "Lumpy",
+        "confidence": "45.55%"
+    },
+    {
+        "filename": "Lumpy_Skin_279.png",
+        "prediction": "Normal",
+        "confidence": "50.50%"
+    },
+    {
+        "filename": "Normal_Skin.png",
+        "prediction": "Normal",
+        "confidence": "79.09%"
+    },
+    {
+        "filename": "Normal_Skin_139.png",
+        "prediction": "Normal",
+        "confidence": "95.84%"
+    },
+    {
+        "filename": "Normal_Skin_61.png",
+        "prediction": "Normal",
+        "confidence": "99.97%"
+    },
+    {
+        "filename": "Normal_Skin_61.png",
+        "prediction": "Normal",
+        "confidence": "99.97%"
+    }
+]
